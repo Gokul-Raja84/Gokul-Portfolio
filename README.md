@@ -1,6 +1,4 @@
-# This repo contains source code for [harrydulaney.com](https://harrydulaney.github.io)
-![page-preview](assets/img/page-preview.png)
-## Description
+# This repo contains source code for
 This is my personal portfolio website. It is hosted on GitHub Pages and features the following technologies:
 - HTML
 - CSS
@@ -22,7 +20,6 @@ I'm not currently accepting contributions to this project, but feel free to fork
 Or if you have any suggestions, feel free to open an issue.
 
 ## Contact Information
-Harry Dulaney - [harrydulaney.com](https://harrydulaney.com/#contact) - LinkedIn - [linkedin.com/in/harrydulaney](https://www.linkedin.com/in/harrydulaney) 
 
 ## License
 [Mit License](https://choosealicense.com/licenses/mit/)
