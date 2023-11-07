@@ -622,10 +622,10 @@ function typeWriter(elementId, textArr) {
 }
 const textArr1 = [
   "Python Programmer",
-  "IT Engineer",
-  "Machine Learning Enthusiast",
-  "SQL Developer",
   "Data Analyst",
+  "SQL Developer",
+  "Machine Learning Enthusiast",
+  "An IT Engineer",
   "Backend Developer",
   // "JavaScript Developer",
 ];
